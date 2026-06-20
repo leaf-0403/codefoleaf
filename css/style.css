@@ -200,6 +200,7 @@ section h2 span {
 }
 
 #map{
+	text-align: right;
 	position: relative;
 	padding-bottom: 75%;
 	height: 0;
