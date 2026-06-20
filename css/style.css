@@ -1,5 +1,6 @@
 @import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
 @import url(https://fonts.googleapis.com/css?family=Pacifico);
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 /* reset */
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td{margin:0;padding:0;}
@@ -89,7 +90,7 @@ section{
 }
 
 section h2{
-	font-family: 'Pacifico', cursive;
+	font-family:"Montserrat", sans-serif;
 	width: 60%;
 	margin: 0 auto 40px;
 	font-size: 22px;
