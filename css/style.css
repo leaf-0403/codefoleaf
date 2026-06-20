@@ -137,6 +137,9 @@ section h2 span {
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start; /* 左詰めならこれ。右詰めにしたいなら flex-end に変更 */
+	gap: 0; /* 写真間の余白をゼロにする */
+    padding: 0;
+    margin: 0;
 }
 
 #gallery li {
